@@ -1,9 +1,10 @@
 # Reactive Counter
 
-![](README/1612180574999.png)
+![](image/README/1612180574999.png)
 
 ### Project Structure
 
+```
 📦src
 ┣ 📂components
 ┃ ┣ 📜counter.jsx
@@ -17,6 +18,7 @@
 ┣ 📜logo.svg
 ┣ 📜reportWebVitals.js
 ┗ 📜setupTests.js
+```
 
 # Javascript-made-simple
 
@@ -135,7 +137,7 @@ let employee = {
 -   Many - forms
 -   Using `render()` for each elements, instead of multiple if else/ switch statements .
 
-![](README/1612020330237.png)
+![](image/README/1612020330237.png)
 
 ## Value vs Reference types
 
