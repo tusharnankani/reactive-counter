@@ -65,8 +65,6 @@ delete another["location"];
 
 ## OOP - Object Oriented Programming
 
-Note: JavaScript doesn't have simething like classes, like in JAVA.
-
 4 pillars of OOP
 
 ### Encapsulation
